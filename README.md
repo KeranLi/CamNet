@@ -2,8 +2,11 @@
 Keran Li<sup>a,1,*</sup>, Yujie Gao<sup>b,1</sup>, Yingjie Ma<sup>b,1</sup>, Chengkun Li<sup>b</sup>, Junjie Ye<sup>b</sup>, Hao Yu<sup>b</sup>, Yiming Xu<sup>b</sup>, Dongyu Zheng<sup>c</sup>, Ardiansyah Koeshidayatullah<sup>d</sup>
 
 <sup>a</sup>State Key Laboratory of Mineral Deposit Research, School of Earth Sciences and Engineering, Nanjing University, Nanjing 210023, China
+
 <sup>b</sup>College of Computer Science and Cyber Security, Chengdu university of Technology, Chengdu, 610059, China
+
 <sup>c</sup>State Key Laboratory of Oil and Gas Reservoir Geology and Exploitation and Key Laboratory of Deep-time Geography and Environment Reconstruction and Applications, MNR and Institute of Sedimentary Geology, Chengdu University of Technology, Chengdu 610059, China
+
 <sup>d</sup>Department of Geosciences, College of Petroleum Engineering and Geosciences, King Fahd University of Petroleum and Minerals, Dhahran 31261, Saudi Arabia
 
 <sup>1</sup>Equal contribution
