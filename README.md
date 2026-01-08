@@ -26,20 +26,20 @@ After training by a <b>***ResNet101***</b> (parameters can be seen in <b>***Tabl
 
 **<center>Table 1 Parameters of ResNets</center>**
 
-<div align=center><img src=".\doc\img\resnet.jpg" width="800px" loc="center"/></div>
+<div align=center><img src=".\doc\img\resnet.jpg" width="400px" loc="center"/></div>
 
-<div align=center><img src=".\doc\img\RandM.jpg" width="800px" loc="center"/></div>
+<div align=center><img src=".\doc\img\RandM.jpg" width="400px" loc="center"/></div>
 
 **<center>Fig 2. Original Model Frameworks of (a) ResNet101 and (b) MobileNetV3-Small</center>**
 
-<div align=center><img src=".\doc\img\imn.jpg" width="800px" loc="center"/></div>
+<div align=center><img src=".\doc\img\imn.jpg" width="400px" loc="center"/></div>
 
 **<center>Fig 3. Frameworks improved MobileNetV3-Small; (a) Total framework; (b) Illustration of one bottleneck; (c) Flow of bottlenecks; (d) Illustration of the skip; (e) Flow of contran necks</center>**
 
 To investigating the potential deploying scenario, in addition to CAM, other image processing such as <b>glcm</b> enhancement was used in the final rendering.
 
 **The workflow of this research is:**
-<div align=center><img src=".\doc\img\workflow.jpg" width="800px" loc="center"/></div>
+<div align=center><img src=".\doc\img\workflow.jpg" width="400px" loc="center"/></div>
 
 **<center>Fig 4. Workflow of this research</center>**
 
